@@ -1,0 +1,11 @@
+package com.fascade.model;
+
+public class HotelReception {
+	
+	public void IndianMenu() {
+		IHotel indianhotel = new IndianHotel();
+		IMenu indianmenu = new IndianMenu();
+		indianmenu.displayMenu();
+	}
+
+}

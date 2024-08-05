@@ -1,0 +1,11 @@
+package com.observer.model;
+
+public interface INotifier {
+	
+	public void SMSNotifier();
+	
+	public void EmailNotifier();
+	
+	public void WhatsappNotifier();
+
+}

@@ -1,0 +1,11 @@
+package com.ocp.solution.model;
+
+public class FixedDeposit {
+	
+	private int accountNumber;
+	private String name;
+	private double principle;
+	private int duration;
+	 FestivalInterest interest;
+
+}

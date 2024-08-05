@@ -1,0 +1,6 @@
+package com.fascade.model;
+
+public interface IHotel {
+	IMenu getMenu();
+
+}

@@ -1,0 +1,11 @@
+package com.ocp.violation.test;
+import com.ocp.violation.model.FixedDeposit;
+import com.ocp.violation.model.FestivalType;
+
+
+public class FixedDepositTest {
+	public static void main(String[] args) {
+		
+	}
+
+}

@@ -1,0 +1,10 @@
+package com.decortaorcar.model;
+
+public class OilChange implements ICarService{
+
+	@Override
+	public double getCost() {
+		return 500;
+	}
+
+}

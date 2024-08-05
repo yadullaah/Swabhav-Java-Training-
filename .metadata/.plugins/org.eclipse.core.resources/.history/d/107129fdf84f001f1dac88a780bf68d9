@@ -1,0 +1,10 @@
+package com.decortaorcar.model;
+
+public class OilChange extends CarServiceDecortaor{
+
+	public OilChange(ICarService carobj) {
+		super(carobj);
+	}
+
+
+}

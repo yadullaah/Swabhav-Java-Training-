@@ -1,0 +1,5 @@
+package com.abstractcarfactory.model;
+
+public class MarutiFactory {
+
+}

@@ -1,0 +1,5 @@
+package com.dip.solution.model;
+
+public class TaxCalculator {
+
+}

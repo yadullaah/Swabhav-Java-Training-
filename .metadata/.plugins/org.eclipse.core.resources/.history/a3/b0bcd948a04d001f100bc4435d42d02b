@@ -1,0 +1,16 @@
+package com.srp.solution.test;
+
+import com.srp.violation.model.Invoice;
+import com.srp.solution.model.TaxCalculator;
+import com.srp.solution.model.InvoicePrinter;
+
+public class InvoiceTest {
+	public static void main(String[] args) {
+
+		Invoice invoice = new Invoice(1, "Laptop", 2000.0, 10.0);
+		
+		invoice.printInvoice();
+	}
+
+
+}

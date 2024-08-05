@@ -1,0 +1,12 @@
+package com.creational.singleton.test;
+import com.creational.singleton.model.Login;
+
+public class LoginTest {
+	public static void main(String[] args) {
+		
+		Login login1 = new Login();
+		login1.status();
+		
+	}
+
+}

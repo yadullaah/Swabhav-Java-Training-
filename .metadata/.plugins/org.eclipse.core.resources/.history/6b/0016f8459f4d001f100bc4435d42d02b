@@ -1,0 +1,13 @@
+package com.srp.solution.model;
+
+public class TaxCalculator {
+	
+	private Invoice invoice;
+	
+	public double calculateTax() {
+		return invoice.getAmount() * invoice.getTax() / 100;
+
+	}
+
+
+}

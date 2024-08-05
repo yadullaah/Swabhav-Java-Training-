@@ -1,0 +1,5 @@
+package com.composite.model;
+
+public class Composite {
+
+}

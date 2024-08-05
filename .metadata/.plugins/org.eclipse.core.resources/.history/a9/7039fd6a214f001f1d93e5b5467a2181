@@ -1,0 +1,23 @@
+package com.creational.factory.test;
+
+import com.creational.factory.model.Mahindra;
+import com.creational.factory.model.Maruti;
+import com.creational.factory.model.Tata;
+
+public class ICarTest {
+	public static void main(String[] args) {
+		Maruti maruti = new Maruti();
+		maruti.start();
+		maruti.stop();
+
+		Tata tata = new Tata();
+		tata.start();
+		tata.stop();
+
+		Mahindra mahindra = new Mahindra();
+		mahindra.start();
+		mahindra.stop();
+
+	}
+
+}

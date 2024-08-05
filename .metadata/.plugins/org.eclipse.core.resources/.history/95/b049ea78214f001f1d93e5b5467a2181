@@ -1,0 +1,17 @@
+package com.creational.factory.test;
+
+import com.creational.factory.model.CarFactory;
+import com.creational.factory.model.Mahindra;
+import com.creational.factory.model.Maruti;
+import com.creational.factory.model.Tata;
+import com.creational.factory.model.CarFactory;;
+
+public class ICarTest {
+	public static void main(String[] args) {
+		
+	CarFactory carfactory = new CarFactory();
+	ICar car = carFactory.makeCar("Maruti");
+
+	}
+
+}

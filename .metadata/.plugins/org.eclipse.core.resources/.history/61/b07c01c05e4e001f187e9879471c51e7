@@ -1,0 +1,5 @@
+package com.dip.violation.model;
+
+public class TaxCalculator {
+
+}

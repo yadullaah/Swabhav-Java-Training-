@@ -1,0 +1,37 @@
+package com.state.model;
+
+public class Packet {
+
+	private IPacketState ipacketstate;
+
+	@Override
+	public String toString() {
+		return "Packet [ipacketstate=" + ipacketstate + "]";
+	}
+
+	public Packet(IPacketState ipacketstate) {
+		super();
+		this.ipacketstate = ipacketstate;
+	}
+
+	public IPacketState getIpacketstate() {
+		return ipacketstate;
+	}
+
+	public void setIpacketstate(IPacketState ipacketstate) {
+		this.ipacketstate = ipacketstate;
+	}
+
+	public void goToNextState() {
+
+	}
+
+	public void goToPreviousState() {
+
+	}
+
+	public void printCurrentState() {
+
+	}
+
+}
