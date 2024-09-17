@@ -1,5 +1,0 @@
-package com.state.model;
-
-public interface IPacketState {
-
-}

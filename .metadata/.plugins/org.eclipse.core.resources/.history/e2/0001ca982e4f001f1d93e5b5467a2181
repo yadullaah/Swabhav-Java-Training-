@@ -1,8 +1,0 @@
-package com.creational.factory.test;
-
-public class IAccountTest {
-	public static void main(String[] args) {
-		
-	}
-
-}

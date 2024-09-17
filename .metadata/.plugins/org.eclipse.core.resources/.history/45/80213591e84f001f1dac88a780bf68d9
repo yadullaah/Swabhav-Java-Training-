@@ -1,5 +1,0 @@
-package com.fascadedvd.model;
-
-public interface ISystem {
-
-}

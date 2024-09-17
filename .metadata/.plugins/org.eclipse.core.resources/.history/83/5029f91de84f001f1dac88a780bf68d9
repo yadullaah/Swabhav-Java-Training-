@@ -1,7 +1,0 @@
-package com.fascade.model;
-
-public interface IMenu {
-	
-	void displayMenu();
-
-}

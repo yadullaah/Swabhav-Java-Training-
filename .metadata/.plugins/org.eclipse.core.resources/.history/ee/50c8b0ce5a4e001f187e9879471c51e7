@@ -1,5 +1,0 @@
-package com.isp.solution.model;
-
-public interface IWorkable {
-
-}

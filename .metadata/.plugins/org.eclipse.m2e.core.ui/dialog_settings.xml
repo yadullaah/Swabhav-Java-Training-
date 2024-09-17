@@ -2,13 +2,16 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
-			<item value="c"/>
 			<item value="com.model"/>
+			<item value="c"/>
 			<item value="com.training"/>
 		</list>
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="32_14-Aug-springcore-2"/>
+			<item value="31_12-Aug_springcore"/>
+			<item value="31_12-Aug-springcore"/>
 			<item value="25_4-Aug-mockito-testing"/>
 			<item value="24_3-Aug-junit"/>
 		</list>
@@ -37,6 +40,7 @@
 		</list>
 	</section>
 	<section name="MavenProjectWizardArchetypePage">
+		<item value="All Catalogs" key="catalog"/>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
 			<item value="[artifactId]-TRUNK"/>
@@ -48,6 +52,7 @@
 	</section>
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="D:\Aurionpro"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>

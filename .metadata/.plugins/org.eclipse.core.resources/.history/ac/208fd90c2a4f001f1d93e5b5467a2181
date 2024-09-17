@@ -1,7 +1,0 @@
-package com.abstractcarfactory.model;
-
-public interface ICarFactory {
-	
-	void makeCar();
-
-}

@@ -1,8 +1,0 @@
-package com.model;
-
-public interface IstudentService {
-	
-	int gettotalMarks();
-
-	int gettotalNoOfSubjects();
-}
